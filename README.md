@@ -44,6 +44,6 @@ The application consists of:
 
 - Adds tasks to the list.
 
-Toggles the completion status of tasks.
+- Toggles the completion status of tasks.
 
-Deletes tasks from the list.
+- Deletes tasks from the list.
