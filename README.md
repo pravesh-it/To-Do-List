@@ -1,4 +1,4 @@
-# 📝 To_Do_List
+# 📝 To-Do-List
 A minimalist, responsive to-do list application built using HTML, Tailwind CSS, and vanilla JavaScript. Add, complete, and delete tasks with ease.
 
 ## 🧠 Overview
@@ -19,8 +19,8 @@ The app is styled using Tailwind CSS and requires no build tools or frameworks, 
 To run this application locally:
 
 1. Clone the repository:
-git clone https://github.com/pravesh-it/To_Do_List.git
-cd To_Do_List
+git clone https://github.com/pravesh-it/To-Do-List.git
+cd To-Do-List
 2. Open To_Do_List.html in your preferred web browser.
 No additional setup or dependencies are required.
 
